@@ -10,5 +10,9 @@ contains the related information about research papers contained in the dataset.
 
 contains the final results of the data extracted from research papers contained in the dataset.
 
+## 3. Extracted_Data.mx2022
+
+contains the detailed data extraction results from research papers contained in the dataset.
+
 
 
