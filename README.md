@@ -6,13 +6,13 @@ The dataset collected from research papers is used to conduct an empirical study
 
 contains the related information about research papers contained in the dataset.
 
-## 2. Extracted_Data.xlsx
-
-contains the final results of the data extracted from research papers contained in the dataset.
-
-## 3. Extracted_Data.mx22
+## 2. Extracted_Data.mx22
 
 contains the detailed data extraction results from research papers contained in the dataset.
+
+## 3. Summarized_Results.xlsx
+
+contains the summarized results according to the data extracted from the included papers in an MS Excel file.
 
 
 
