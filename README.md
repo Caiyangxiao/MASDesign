@@ -8,7 +8,7 @@ contains the related information about research papers contained in the dataset.
 
 ## 2. Extracted_Data.mx22
 
-contains the detailed data extraction results from research papers contained in the dataset. This file can be opened with MAXQDA 2022.
+contains the detailed data extraction results from research papers contained in the dataset (This file can be opened by MAXQDA 2020 or higher versions, which are available at https://www.maxqda.com/. You may also use the free 14 days trial version of MAXQDA, which is available at https://www.maxqda.com/trial for download.)
 
 ## 3. Summarized_Results.xlsx
 
