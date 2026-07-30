@@ -1,4 +1,6 @@
-# Dataset of the Paper "Designing LLM-based Multi-Agent Systems for Software Engineering Tasks: Quality Attributes, Design Patterns and Rationale"
+<div align="center">
+    # Dataset of the Paper "Designing LLM-based Multi-Agent Systems for Software Engineering Tasks: Quality Attributes, Design Patterns and Rationale"
+</div>
 
 <div align="center">
     <a href="https://github.com/Caiyangxiao/MASDesign">
