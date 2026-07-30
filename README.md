@@ -1,4 +1,4 @@
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/f2ded3dd-724a-434e-9822-44d14e93c96e" /><img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/34eab31e-ef0a-494e-b745-378946ec1ac0" /># Dataset of the Paper "Designing LLM-based Multi-Agent Systems for Software Engineering Tasks: Quality Attributes, Design Patterns and Rationale"
+# Dataset of the Paper "Designing LLM-based Multi-Agent Systems for Software Engineering Tasks: Quality Attributes, Design Patterns and Rationale"
 
 <div align="center">
     <a href="https://github.com/Caiyangxiao/MASDesign">
@@ -12,7 +12,7 @@
 
 The dataset collected from research papers is used to conduct an empirical study on the quality attributes, design patterns and rationale of LLM-based multi-agent systems for software engineering tasks. A brief description of each document in the dataset is provided below: 
 
-## :cup_with_straw: 1. Raw_Data.xlsx
+## 📋 1. Raw_Data.xlsx
 
 contains the related information about research papers contained in the dataset.
 
