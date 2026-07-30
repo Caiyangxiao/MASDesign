@@ -6,7 +6,7 @@
     <a href="https://github.com/Caiyangxiao/MASDesign">
       <img src="https://img.shields.io/badge/Data-GitHub-2d333b?style=flat-square&logo=github" alt="github">
     </a>
-    <a href="https://arxiv.org/abs/2512.22827">
+    <a href="https://arxiv.org/abs/2511.08475">
       <img src="https://img.shields.io/badge/Paper-arXiv-b31b1b?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv">
     </a>
     <hr>
