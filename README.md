@@ -30,7 +30,7 @@ contains the summarized results according to the data extracted from the include
 
 ```bibtex
 @article{Cai2026MASDesign,
-  author = {Yangxiao Cai and Ruiyin Li and Peng Liang and Mojtaba Shahin and Zengyang Li and Aldeida Aleti},
+  author = {Yangxiao Cai and Ruiyin Li and Peng Liang and Mojtaba Shahin and Zengyang Li and Aldeida Aleti and Chenxing Zhong},
   title = {{Designing LLM-based Multi-Agent Systems for Software Engineering Tasks: Quality Attributes, Design Patterns and Rationale}},
   journal={arXiv preprint arXiv:2511.08475},
   year={2026}
